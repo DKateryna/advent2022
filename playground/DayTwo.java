@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 public class DayTwo {
-    final public static String filePath = "../inputs/day2.txt";
+    final public static String filePath = "/inputs/day2.txt";
 
     public static void rockPaperScissorsA() {
         try {

@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 public class DayOne {
-    final public static String filePath = "../inputs/day1.txt";
+    final public static String filePath = "/inputs/day1.txt";
 
     public static void  calorieCountingA() {
         int sum = 0;
